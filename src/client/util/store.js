@@ -18,3 +18,4 @@ export class Store {
     await fs.writeFile(filename, JSON.stringify(config), "utf8");
   }
 }
+# Change 1 on 2024-01-24
