@@ -7,3 +7,4 @@ possible optimisations/additions:
     - improve legal_chess (see its readme)
     - game_arr could be stored in less bytes because you don't need an entire byte to save a piece
     - when should the game start? when 2nd player joins? or is there maybe a better way?
+# Change 0 on 2024-02-17
