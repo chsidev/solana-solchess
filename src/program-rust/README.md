@@ -26,3 +26,4 @@ You can feed additional parameters to the test just like cargo:
 Clippy is also supported via:
 
 `$ ./do.sh clippy`
+# Change 1 on 2024-02-24
